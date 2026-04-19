@@ -25,17 +25,6 @@ This project uses **Independent Component Analysis (ICA)**, a statistical techni
 - **Input**: 3 mixed ECG signals from electrode recordings
 - **Output**: 3 separated independent components (maternal ECG, fetal ECG, noise)
 
-## Project Structure
-
-```
-.
-├── README.md                 # This file
-├── notebooks/               # Jupyter notebooks for analysis and visualization
-├── src/                      # Source code for ICA implementation
-├── data/                     # Sample ECG data (if included)
-└── results/                  # Output separated signals and visualizations
-```
-
 ## Requirements
 
 - Python 3.7+
